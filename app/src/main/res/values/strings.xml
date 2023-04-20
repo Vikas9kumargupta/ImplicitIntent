@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="enter_message_here">Enter message here…</string>
+    <string name="hello_world">HELLO WORLD</string>
+    <string name="share">Share</string>
+    <string name="email">Email</string>
+    <string name="message">Message</string>
+    <string name="camera">Camera</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="browse">Browse</string>
+    <string name="dialogTitle">Delete File</string>
+    <string name="dialogMessage">Deleting file may be harm your system</string>
+</resources>
